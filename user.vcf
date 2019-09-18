@@ -4,13 +4,13 @@ PRODID:-//Apple Inc.//iPhone OS 12.0//EN
 N:Artz;Chris;;;
 FN: Chris  Artz 
 NICKNAME:Chris
-ORG:AECOM;
-TITLE:Project Manager, Environmental Engineer
+ORG:Tetra Tech;
+TITLE:Program Manager, Environmental Engineer
 PHOTO;VALUE=URI;TYPE=png:https://chrisartz.github.io/digital-namecard/user.png
-EMAIL:chris.artz@aecom.com
-TEL;type=WORK;type=VOICE;type=pref:(402) 952-2582
+EMAIL:Chris.Artz@TetraTech.com
+TEL;type=WORK;type=VOICE;type=pref:(402) ###-####
 TEL;type=IPHONE;type=CELL;type=VOICE:(402) 205-6119
-ADR;type=WORK;type=pref:;;12120 Shamrock Plz\, Ste 100;Omaha;NE;68154;United States
+ADR;type=WORK;type=pref:;;222 South 15th Street\, Ste 200;Omaha;NE;68102;United States
 X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/chrisartz
 item1.URL;type=pref:https://www.linkedin.com/in/chrisartz/
 item1.X-ABLabel:_$!<HomePage>!$_
